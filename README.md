@@ -1,4 +1,4 @@
-# Design a website for a College. There should be at least 15 web-pages present in the web-site.<br/>
+# Design a website for a College..<br/>
 ## There should be an appropriate description of the college on the home page.<br/>
 ### One Academics page which contains a list of all the departments present in the college Arts, Science and Commerce. The list should be a nested list, with available courses mentioned under each department. There should be a minimum of two courses under each department, (for e.g. Computer Science and Mathematics under Science, English and Sociology under Arts  and so on). Each Course entry in the list should be a HTML link that leads to a web-page totally dedicated to the course itself.<br/>
 
@@ -199,7 +199,7 @@
 ````
 
 ## Output :
-![out](output-gallery.png)
+![out](gallery.png)
 
 # Courses 
 # computer-science.html:
@@ -302,7 +302,7 @@
 ````
 
 ## Output:
-![out](output-mathematics.png)
+![out](mathematics.png)
 
 #  english.html :
 ````
@@ -354,7 +354,7 @@
 ````
 
 ## Output:
-![out](output-english.png)
+![out](english.png)
 
 # sociology.html:
 ````
@@ -457,7 +457,7 @@
 ````
 
 ## Output :
-![out](output-economics.png)
+![out](economics.png)
 
 
 
@@ -509,5 +509,5 @@
 </html>
 ````
 ## Output :
-![out](output-bm.png)
+![out](bm.png)
 
